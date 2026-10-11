@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Extracted output (never commit conversation dumps)
+conversation-*.txt
+conversation-*.txt.events.json
+*.events.json
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
